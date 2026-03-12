@@ -5,7 +5,7 @@ Template de repositório para projetos de TCC.
 ## Checklist
 
 ### Definição do tema
-- [ ] Escolher um tema geral do TCC
+- [X] Escolher um tema geral do TCC
 - [ ] Escrever uma breve descrição do problema de pesquisa (5–10 linhas)
 - [ ] Definir palavras-chave iniciais relacionadas ao tema
 - [ ] Criar um repositório no GitHub para armazenar arquivos do projeto 
