@@ -6,10 +6,10 @@ Template de repositório para projetos de TCC.
 
 ### Definição do tema
 - [X] Escolher um tema geral do TCC
-- [ ] Escrever uma breve descrição do problema de pesquisa (5–10 linhas)
-- [ ] Definir palavras-chave iniciais relacionadas ao tema
+- [X] Escrever uma breve descrição do problema de pesquisa (5–10 linhas)
+- [X] Definir palavras-chave iniciais relacionadas ao tema
 - [ ] Criar um repositório no GitHub para armazenar arquivos do projeto 
-- [ ] Criar um projeto em LaTeX no [Overleaf](https://overleaf.com)
+- [X] Criar um projeto em LaTeX no [Overleaf](https://overleaf.com)
   - [ ] Compartilhar com o orientador
 
 ### Pergunta de pesquisa
