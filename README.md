@@ -19,7 +19,7 @@ Template de repositório para projetos de TCC.
 
 ### Busca inicial de artigos
 - [ ] Buscar trabalhos relacionados nos principais motores de busca de trabalhos acadêmicos:
-  - [ ] Google Scholar
+  - [X] Google Scholar
   - [ ] Scopus
   - [ ] IEEE 
   - [ ] ACM 
