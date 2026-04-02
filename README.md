@@ -21,7 +21,7 @@ Template de repositório para projetos de TCC.
 - [ ] Buscar trabalhos relacionados nos principais motores de busca de trabalhos acadêmicos:
   - [X] Google Scholar
   - [ ] Scopus
-  - [ ] IEEE 
+  - [X] IEEE 
   - [ ] ACM 
 - [ ] Catalogar:
   - [ ] número de artigos encontrados com os termos de busca 
@@ -29,7 +29,7 @@ Template de repositório para projetos de TCC.
   - [ ] quantidade de artigos por motores de busca
   - [ ] remover duplicatas
 - [ ] Baixar PDF dos artigos e armazenar no repositório 
-- [ ] Criar uma planilha/lista com artigos encontrados
+- [X] Criar uma planilha/lista com artigos encontrados
 
 ### Leitura inicial
 - [ ] Ler título e resumo dos artigos encontrados
