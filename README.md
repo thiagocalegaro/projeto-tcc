@@ -18,17 +18,17 @@ Template de repositório para projetos de TCC.
 - [x] Listar possíveis termos de busca e sinônimos
 
 ### Busca inicial de artigos
-- [ ] Buscar trabalhos relacionados nos principais motores de busca de trabalhos acadêmicos:
+- [X] Buscar trabalhos relacionados nos principais motores de busca de trabalhos acadêmicos:
   - [X] Google Scholar
-  - [ ] Scopus
+  - [X] Scopus
   - [X] IEEE 
-  - [ ] ACM 
+  - [X] ACM 
 - [ ] Catalogar:
-  - [ ] número de artigos encontrados com os termos de busca 
-  - [ ] número de artigos que foi possível baixar o PDF
-  - [ ] quantidade de artigos por motores de busca
-  - [ ] remover duplicatas
-- [ ] Baixar PDF dos artigos e armazenar no repositório 
+  - [2700] número de artigos encontrados com os termos de busca 
+  - [7] número de artigos que foi possível baixar o PDF
+  - [1100] quantidade de artigos por motores de busca
+  - [X] remover duplicatas
+- [X] Baixar PDF dos artigos e armazenar no repositório 
 - [X] Criar uma planilha/lista com artigos encontrados
 
 ### Leitura inicial
