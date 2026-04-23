@@ -23,7 +23,7 @@ Template de repositório para projetos de TCC.
   - [X] Scopus
   - [X] IEEE 
   - [X] ACM 
-- [ ] Catalogar:
+- [X] Catalogar:
   - [2700] número de artigos encontrados com os termos de busca 
   - [7] número de artigos que foi possível baixar o PDF
   - [1100] quantidade de artigos por motores de busca
