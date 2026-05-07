@@ -32,9 +32,9 @@ Template de repositório para projetos de TCC.
 - [X] Criar uma planilha/lista com artigos encontrados
 
 ### Leitura inicial
-- [ ] Ler título e resumo dos artigos encontrados
-- [ ] Marcar artigos potencialmente relevantes
-- [ ] Excluir artigos claramente fora do escopo
+- [X] Ler título e resumo dos artigos encontrados
+- [X] Marcar artigos potencialmente relevantes
+- [X] Excluir artigos claramente fora do escopo
 
 ### Leitura intermediária
 - [ ] Ler introdução e conclusão dos artigos selecionados
@@ -49,8 +49,8 @@ Template de repositório para projetos de TCC.
 - [ ] Registrar citações importantes
 
 ### Organização
-- [ ] Agrupar os artigos por temas ou categorias
-- [ ] Identificar lacunas ou problemas ainda não resolvidos
+- [X] Agrupar os artigos por temas ou categorias
+- [X] Identificar lacunas ou problemas ainda não resolvidos
 - [ ] Criar um mapa conceitual ou estrutura temática da revisão
 
 ### Estrutura do texto
