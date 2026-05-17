@@ -46,7 +46,7 @@ Template de repositório para projetos de TCC.
 - [X] Ler artigos principais com mais profundidade
 - [X] Anotar métodos, resultados e limitações
 - [X] Identificar tendências e abordagens comuns
-- [] Registrar citações importantes
+- [ ] Registrar citações importantes
 
 ### Organização
 - [X] Agrupar os artigos por temas ou categorias
