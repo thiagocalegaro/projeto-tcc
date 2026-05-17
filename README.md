@@ -37,16 +37,16 @@ Template de repositório para projetos de TCC.
 - [X] Excluir artigos claramente fora do escopo
 
 ### Leitura intermediária
-- [ ] Ler introdução e conclusão dos artigos selecionados
-- [ ] Identificar os trabalhos mais importantes da área
-- [ ] Registrar contribuições principais de cada artigo
-- [ ] Atualizar a lista de referências relevantes
+- [X] Ler introdução e conclusão dos artigos selecionados
+- [X] Identificar os trabalhos mais importantes da área
+- [X] Registrar contribuições principais de cada artigo
+- [X] Atualizar a lista de referências relevantes
 
 ### Leitura avançada
-- [ ] Ler artigos principais com mais profundidade
-- [ ] Anotar métodos, resultados e limitações
-- [ ] Identificar tendências e abordagens comuns
-- [ ] Registrar citações importantes
+- [X] Ler artigos principais com mais profundidade
+- [X] Anotar métodos, resultados e limitações
+- [X] Identificar tendências e abordagens comuns
+- [] Registrar citações importantes
 
 ### Organização
 - [X] Agrupar os artigos por temas ou categorias
@@ -54,15 +54,15 @@ Template de repositório para projetos de TCC.
 - [ ] Criar um mapa conceitual ou estrutura temática da revisão
 
 ### Estrutura do texto
-- [ ] Definir a estrutura do documento
+- [X] Definir a estrutura do documento
 - [ ] Criar seções no LaTeX:
-  - [ ] Introdução
-  - [ ] Trabalhos relacionados
-  - [ ] Metodologia
-  - [ ] Objetivos
-  - [ ] Cronograma
-  - [ ] Trabalhos futuros
-  - [ ] Referências
+  - [X] Introdução
+  - [X] Trabalhos relacionados
+  - [] Metodologia
+  - [X] Objetivos
+  - [X] Cronograma
+  - [] Trabalhos futuros
+  - [X] Referências
 
 ### Escrita
 
@@ -79,9 +79,9 @@ Template de repositório para projetos de TCC.
 - [ ] Descrever processo de seleção dos artigos
 
 #### Trabalhos relacionados
-- [ ] Descrever os principais trabalhos encontrados
-- [ ] Comparar abordagens e resultados
-- [ ] Organizar o texto por temas ou categorias
+- [X] Descrever os principais trabalhos encontrados
+- [X] Comparar abordagens e resultados
+- [X] Organizar o texto por temas ou categorias
 
 #### Objetivos
 - [ ] Identificar tendências da área
