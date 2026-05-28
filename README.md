@@ -46,7 +46,7 @@ Template de repositório para projetos de TCC.
 - [X] Ler artigos principais com mais profundidade
 - [X] Anotar métodos, resultados e limitações
 - [X] Identificar tendências e abordagens comuns
-- [ ] Registrar citações importantes
+- [X] Registrar citações importantes
 
 ### Organização
 - [X] Agrupar os artigos por temas ou categorias
@@ -55,7 +55,7 @@ Template de repositório para projetos de TCC.
 
 ### Estrutura do texto
 - [X] Definir a estrutura do documento
-- [ ] Criar seções no LaTeX:
+- [X] Criar seções no LaTeX:
   - [X] Introdução
   - [X] Trabalhos relacionados
   - [] Metodologia
@@ -67,10 +67,10 @@ Template de repositório para projetos de TCC.
 ### Escrita
 
 #### Introdução
-- [ ] Escrever a seção de Introdução
-- [ ] Apresentar contexto do problema
-- [ ] Justificar a relevância do tema
-- [ ] Apresentar objetivos do trabalho
+- [X] Escrever a seção de Introdução
+- [X] Apresentar contexto do problema
+- [X] Justificar a relevância do tema
+- [X] Apresentar objetivos do trabalho
 
 #### Metodologia
 - [ ] Descrever como a busca foi realizada
@@ -84,12 +84,12 @@ Template de repositório para projetos de TCC.
 - [X] Organizar o texto por temas ou categorias
 
 #### Objetivos
-- [ ] Identificar tendências da área
-- [ ] Discutir limitações dos trabalhos existentes
-- [ ] Apontar lacunas na literatura
+- [X] Identificar tendências da área
+- [X] Discutir limitações dos trabalhos existentes
+- [X] Apontar lacunas na literatura
 
 #### Cronograma
-- [ ] Criar uma tabela e detalhar o que será feito em cada uma das 15 semanas do TCC 2
+- [X] Criar uma tabela e detalhar o que será feito em cada uma das 15 semanas do TCC 2
 
 #### Trabalhos futuros
 - [ ] Escrever trabalhos futuros
