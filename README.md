@@ -58,10 +58,10 @@ Template de repositório para projetos de TCC.
 - [X] Criar seções no LaTeX:
   - [X] Introdução
   - [X] Trabalhos relacionados
-  - [] Metodologia
+  - [ ] Metodologia
   - [X] Objetivos
   - [X] Cronograma
-  - [] Trabalhos futuros
+  - [ ] Trabalhos futuros
   - [X] Referências
 
 ### Escrita
